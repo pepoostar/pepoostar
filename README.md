@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oi ! 👋
+Meu nome é Pedro, tenho que 18 anos
 
-<!--
-**pepoostar/pepoostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou dançarino
+- I'm DEAF!!!!
+- ESTP
+- Estou estudando na Alura
+- Estou me desenolvendo na lingugam Javacript
+- Utilizo esse espaço minha organização e compartilhamento dos meu projetos desenvolvidos 
 
-Here are some ideas to get you started:
+### Voce entar em contato comigo
+- pedro.vsleite@gmail.com
+- @pepovsleiteee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<<img src="https://media1.tenor.com/m/SaPXGsrUBJgAAAAC/kpop-newjeans.gif" alt="Kpop Newjeans GIF"/>![image](https://github.com/user-attachments/assets/d6a06ba4-d2c8-43eb-8e82-2850905617a1)
